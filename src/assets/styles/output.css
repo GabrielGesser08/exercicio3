@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cabecalho{
+    display: flex;
+      justify-content: space-around;
+}
+.inicio{
+    padding: 20px;
+}
+.sobre{
+    padding: 20px;
+}
+.servicos{
+    padding: 20px;
+}.depoimentos{
+    padding: 20px;
+}
+
+.contato{
+    padding: 20px;
+}.titulo{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 5rem;
+    margin-top: 10rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.subtitulo{
+    font-size: 16px;
+    font-weight: 100;
+    font-family:'Times New Roman', Times, serif ;
+    color: gray;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+.imagemCabeleleira{
+    margin-left: 40rem;
+    margin-top: -10rem;
+}
