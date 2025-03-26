@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+}
+.inicio{
+    padding: 20px;
+}
+.sobre{
+    padding: 20px;
+}
+.servicos{
+    padding: 20px;
+}.depoimentos{
+    padding: 20px;
+}
+.contato{
+    padding: 20px;
+}
