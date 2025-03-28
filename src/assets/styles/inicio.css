@@ -369,4 +369,32 @@ footer{
 }
 .espaco{
     margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.icones{
+    margin-left: 50rem;
+    margin-top: -6rem;
+    display: flex;
+}
+
+.insta{
+    padding-inline: 2rem;
+}
+.fecebook{
+    padding-inline: 2rem;
+}
+.youtube{
+    padding-inline: 2rem;
+}
+.espaco{
+    margin-left: -2rem;
+}
+
+.marginContato1{
+    padding: 2rem;
+}
+
+.marginContato2{
+    margin-left: 2rem;
 }
