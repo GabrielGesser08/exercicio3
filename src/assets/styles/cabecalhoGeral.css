@@ -5,7 +5,7 @@
 }
 .cabecalho{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 .inicio{
     padding: 20px;

@@ -58,7 +58,7 @@
     border-radius: .5rem;
 }
 
-.botao{
+.botaoInicio{
     background-color: #69b99d;
     border: none;
     padding: .6rem;
@@ -213,3 +213,160 @@ section{
     box-shadow:  2px 2px 10px rgb(199, 199, 199);
 }
 
+/*depoimentos*/
+
+.tituloDepoimento1{
+    display: flex;
+    justify-content: center;
+    margin-top: 8rem;
+}
+
+.tituloDepoimento2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.boxDepoimento{
+    background-color: #ffffff;
+    height: 15rem;
+    width: 30rem;
+    box-shadow: 1px 1px 20px rgb(156, 156, 156);
+}
+.centralizarBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    padding: 2rem;
+}
+
+.TextoDepoimeto1{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+}
+.TextoDepoimeto2{
+
+    display: flex;
+    justify-content: center;
+}
+.TextoDepoimeto3{
+
+    display: flex;
+    justify-content: center;
+}
+.TextoDepoimeto4{
+
+    display: flex;
+    justify-content: center;
+}
+
+.ladoDoOutro{
+    display: flex;
+    justify-content: center;
+}
+.ajeitarImagem{
+    display: flex;
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+
+.textoPerfil1{
+    margin-left: .5rem;
+    margin-top: .5rem;
+}
+.textoPerfil2{
+    margin-left: .5rem;
+    margin-top: .5rem;
+}
+
+/*contato*/
+
+.mudarBotaoDeLugar2{
+    margin-top: 2rem;
+    margin-left: 2.5rem;
+}
+
+.botaoContato{
+    background-color: #69b99d;
+    border: none;
+    padding: .8rem;
+    padding-left: 5rem;
+    padding-right: 2.5rem;
+    border-radius: .3rem;
+    color: white;
+    margin-left: 5rem;
+}
+
+.textoBotaoContato{
+    padding: .4rem;
+    margin-top: .1rem;
+    font-size: 16px;
+}
+
+.imagemBotao{
+    margin-left: -3rem;
+    margin-top: -2rem;
+    display: flex;
+}
+
+.tituloContato{
+    margin-left: 7.5rem;
+    margin-top: 10rem;
+}
+.subtituloContato{
+    margin-left: 7.5rem;
+    margin-top: 1rem;
+    color: gray;
+}
+
+.contatos{
+    margin-left: 45rem;
+    margin-top: -11rem;
+}
+
+.numero{
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.email{
+    margin-left: 2rem;
+    
+}
+
+.localizacao{
+    margin-left: 2rem;
+    
+}
+
+.Espacamento{
+    margin-top: 1rem;
+}
+
+.arrumarImgTelefone{
+    margin-top: -1.3rem;
+}
+
+/*footer*/
+
+footer{
+    background-color: #69b99d;
+    width: 100%;
+    height: 20rem;
+    margin-top: 20rem;
+}
+
+.logoBeaut{
+    margin-left: 7rem;
+    padding-top: 4rem;
+}
+
+.direitos{
+    margin-left: 7.5rem;
+    margin-top: 3rem;
+    color: #fff;
+}
+.espaco{
+    margin-top: 1rem;
+}
